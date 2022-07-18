@@ -1,9 +1,9 @@
-Ratree Jotey
-h1{
-  
-  border-left: 3px solid red;
-  
+.headline{
+    text-align: center;
+    font-size: large;
 }
+  
+
 .golden-color{
   color: gold 
   
@@ -20,7 +20,7 @@ h1{
   
 }
 img{
-  height: 200px
+  height: 500px
   
   
 }
@@ -39,7 +39,7 @@ img{
 }
 
 .mission1{
-  height: 40px;
+  height:200px;
 }
 .mvg{
  box-shadow: 10px 10px 30px gray;

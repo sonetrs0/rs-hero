@@ -1,0 +1,67 @@
+Ratree Jotey
+h1{
+  
+  border-left: 3px solid red;
+  
+}
+.golden-color{
+  color: gold 
+  
+}
+.color-orange{
+  color: orange
+}
+.flex-container{
+  display: flex;
+  margin-bottom: 50px;
+  
+  
+ 
+  
+}
+img{
+  height: 200px
+  
+  
+}
+.explore{
+  color: white;
+  text-decoration: none;
+  background-image: linear-gradient(orange, tomato);
+  padding: 10px 20px;
+  border-radius: 10px;
+  text-align: center;
+  font-weight: bold;
+}
+.my-mission h2 { 
+  text-align: center;
+ 
+}
+
+.mission1{
+  height: 40px;
+}
+.mvg{
+ box-shadow: 10px 10px 30px gray;
+ margin: 10px 10px;
+ padding: 15px 5px;
+  text-align: justify;
+  border-radius: 10px;
+}
+.mvg1{
+  background-color: lightblue;
+  
+}
+.mvg2{
+  background-color: lightpink;
+}
+.mvg3{
+  background-color: lightgoldenrodyellow
+}
+.f5{
+  margin: 0 10px;
+}
+.h21{
+  text-align: center;
+  margin-bottom: 20px;
+}

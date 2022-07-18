@@ -96,3 +96,15 @@ font-size: 60px;
 .make-dev{
   margin: 20px 90px ;
 }
+.sec4{
+  display: flex;
+  margin: 200px 150px;
+  background-image: url(/mission-2022-main/images/shapes/shape-4.png);
+background-repeat: no-repeat;
+background-size: 900px;
+
+
+}
+.fbg{
+  font-size: 20px;
+}

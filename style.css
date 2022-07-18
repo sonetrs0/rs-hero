@@ -1,67 +1,98 @@
-.headline{
-    text-align: center;
-    font-size: large;
+body{
+  font-family: 'Quicksand', sans-serif;
 }
-  
-
-.golden-color{
-  color: gold 
-  
+.header-text{
+  font-family: 'Alfa Slab One', cursive;
+font-family: 'Blaka', cursive;
+font-family: 'Roboto', sans-serif;
+font-size: 80px;
 }
-.color-orange{
-  color: orange
-}
-.flex-container{
+.header{
   display: flex;
-  margin-bottom: 50px;
-  
-  
- 
-  
+  padding: 30px 150px;
+  background-image: url(/mission-2022-main/images/shapes/shape-6.png );
+  background-repeat: no-repeat;
+  margin-bottom: 100px;
+
 }
-img{
-  height: 500px
-  
-  
+.image-rs{
+  height: 500px;
+
 }
-.explore{
-  color: white;
-  text-decoration: none;
-  background-image: linear-gradient(orange, tomato);
-  padding: 10px 20px;
-  border-radius: 10px;
-  text-align: center;
-  font-weight: bold;
+.clr-gold{
+  color: goldenrod;
 }
-.my-mission h2 { 
-  text-align: center;
- 
+.half-width{
+  width: 50%;
 }
 
-.mission1{
-  height:200px;
-}
-.mvg{
- box-shadow: 10px 10px 30px gray;
- margin: 10px 10px;
- padding: 15px 5px;
-  text-align: justify;
-  border-radius: 10px;
-}
-.mvg1{
-  background-color: lightblue;
+.half-width img{
+  width: 60%;
+  margin-left: 100px;
   
 }
-.mvg2{
-  background-color: lightpink;
+
+.button{
+ text-decoration: none;
+ background-image: linear-gradient(rgb(245, 166, 21), rgba(243, 46, 11, 0.767));
+ border-radius: 15px;
+padding: 10px 24px;
+color: white;
+font-weight: bold;
 }
-.mvg3{
-  background-color: lightgoldenrodyellow
-}
-.f5{
-  margin: 0 10px;
-}
-.h21{
+
+.my-mission{
+  font-family: 'Alfa Slab One', cursive;
+  font-family: 'Blaka', cursive;
+  font-family: 'Roboto', sans-serif;
+  font-size: 70px;
   text-align: center;
-  margin-bottom: 20px;
+}
+.list-item{
+  display: flex;
+  
+  width: 90%;
+  margin: 0 100px;
+  margin-bottom: 100px;
+  justify-content: space-around;
+  
+}
+.image-mvg{
+  height: 200px;
+}
+.box{
+
+  box-shadow: rgb(153, 147, 147) 20px 20px 30px ;
+  
+}
+.marg{
+  margin-right: 50px;
+  padding: 20px 20px;
+  border-radius: 20px;
+
+}
+.it1{
+  background-color: rgba(255, 239, 213, 0.329);
+}
+.it2{
+  background-color: rgba(142, 177, 212, 0.26);
+}
+.it3{
+  background-color: rgba(168, 240, 168, 0.295);
+}
+.mission2{
+  background-image: url(/mission-2022-main/images/shapes/shape-4.png);
+  background-repeat: no-repeat;
+}
+.sec3{
+  display: flex;
+  margin: 150px 150px;
+  background-image: url(/mission-2022-main/images/shapes/shape-5.png);
+background-repeat: no-repeat;
+}
+.dev{
+font-size: 60px;
+}
+.make-dev{
+  margin: 20px 90px ;
 }

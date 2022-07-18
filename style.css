@@ -112,7 +112,8 @@ background-size: 900px;
 }
 .sec5{
   display: flex;
-  margin: 200px 150px;
+  margin: 0 150px;
+  margin-bottom: 200px;
   background-image: url(/mission-2022-main/images/shapes/shape-4.png);
 background-repeat: no-repeat;
 background-size: 900px;

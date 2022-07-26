@@ -12,7 +12,7 @@ border-radius: 10px;
 .header{
   display: flex;
   padding: 30px 150px;
-  background-image: url(/mission-2022-main/images/shapes/shape-6.png );
+  background-image: url(./mission-2022-main/images/shapes/shape-6.png );
   background-repeat: no-repeat;
   margin-bottom: 100px;
 
@@ -83,13 +83,13 @@ font-weight: bold;
   background-color: rgba(168, 240, 168, 0.295);
 }
 .mission2{
-  background-image: url(/mission-2022-main/images/shapes/shape-4.png);
+  background-image: url(./mission-2022-main/images/shapes/shape-4.png);
   background-repeat: no-repeat;
 }
 .sec3{
   display: flex;
   margin: 150px 150px;
-  background-image: url(/mission-2022-main/images/shapes/shape-5.png);
+  background-image: url(./mission-2022-main/images/shapes/shape-5.png);
 background-repeat: no-repeat;
 }
 .dev{
@@ -101,7 +101,7 @@ font-size: 60px;
 .sec4{
   display: flex;
   margin: 200px 150px;
-  background-image: url(/mission-2022-main/images/shapes/shape-4.png);
+  background-image: url(./mission-2022-main/images/shapes/shape-4.png);
 background-repeat: no-repeat;
 background-size: 900px;
 
@@ -114,7 +114,7 @@ background-size: 900px;
   display: flex;
   margin: 0 150px;
   margin-bottom: 200px;
-  background-image: url(/mission-2022-main/images/shapes/shape-4.png);
+  background-image: url(./mission-2022-main/images/shapes/shape-4.png);
 background-repeat: no-repeat;
 background-size: 900px;
 }
